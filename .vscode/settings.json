@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "stdio.h": "c",
-        "conv.h": "c",
-        "primitives.h": "c",
-        "__locale": "c"
-    }
-}
